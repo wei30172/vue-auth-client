@@ -1,5 +1,5 @@
-# vue-auth-client
-## email: test@testnet.co.us, pw: test1234
+# [vue-auth-client](https://auth-vue-node-202202.netlify.app/)
+Test email & password : test@testnet.co.us / test1234
 
 ## Project setup
 ```
